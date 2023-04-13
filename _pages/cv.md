@@ -11,31 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Electrical and Computer Engineering, University of Wisconsin-Madison, 2023.
+* M.S. in Electrical Engineering, University of Wisconsin-Madison, 2020.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb 2023 - present: Research Associate (post-doc)
+  * University of Wisconsin-Madison
+  * Topic: Electric machine design, Off-highway vehicle electrification
+  * Supervisor: Prof. Eric L. Severson
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2021: Research Intern
+  * Mitsubishi Electric Research Laboratories
+  * Topic: Topology Optimization for Electric Machines
+  * Supervisor: Dr. Bingnan Wang
+
+* Fall 2018-Feb 2023: Graduate Assistant
+  * University of Wisconsin-Madison
+  * Teaching Assistant: Introductory EE Lab, Microprocessors, Power Electronics, Electric Machine Design 
+  * Research Assistant: U.S. DoE funded project on Off-highway vehicle electrification
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
