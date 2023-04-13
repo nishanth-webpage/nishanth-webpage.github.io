@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi there 👋, I am Nishanth, a post-doctoral research associate at the University of Wisconsin-Madison. I work at the world renowned Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC)- one of the largest of it's kind in the world with over 10 faculty and faculty affiliates, 80 corporate sponsors, 50 graduate students, undergraduates and staff. 
+
+I also got my Ph.D. from WEMPEC in 2023, under the mentorship of [Prof. Eric Severson](https://severson.wempec.wisc.edu/) (I was his first student!). During my graduate education and post-doc I have been fortunate to be part of a young and dynamic research group that works on cool, niche (and weird) electric machines, power electronics and control. My Ph.D. work focused on developing power-dense electric drive systems to electrify off-highway vehicles. 
+My research interests are at the intersection of electric machine design, power electronics, and control. I also have research interests in allied domains of design optimization, topology optimization, electro-hydraulic systems, applied machine learning, and metal aditive manufacturing. 
+
+The new knowledge that I created and the technology that I developed thus far is not just limited to off-highway vehicle electrification, but is directly applicable to land transportation (electric vehicles), sustainable energy generation systems, fly-wheel energy storage, battery energy storage, robotic manipulators, aircraft electrification and so on. 
 
 A data-driven personal website
 ======
