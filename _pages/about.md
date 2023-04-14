@@ -15,3 +15,7 @@ My Ph.D. work focused on developing key-enablers in the form of power-dense elec
 The new knowledge that I created and the technology that I developed thus far is not just limited to off-highway vehicle electrification, but is directly applicable to _land transportation (electric vehicles), sustainable energy generation systems, magnetically levitated motor systems, fly-wheel energy storage, battery energy storage, robotic manipulators, and aircraft electrification_. 
 
 My future research develops **key-enablers** for electrification, robotics, and sustainable energy systems, with a particular _soft spot_ at the **intersection of electric machine design, power electronics, and control**. My research is highly **inter-disciplinary** and heavily involves elements from the domains of wide-bandgap semiconductors, multi-physics analysis and design, design optimization, topology optimization, electro-hydraulic systems, applied and physics-based machine learning, material science, and metal aditive manufacturing.
+
+## My name
+
+I officially have just one name "Nishanth", which is my legal name. However, since the U.S. requires a first name and a last name, my name appears as FNU Nishanth in most places in the U.S. FNU is an abbreviation for First Name Unknown. You can read more about it [here.](https://uk.usembassy.gov/visas/visa-errors/name-appears-as-fnu/) 
